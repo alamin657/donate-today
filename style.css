@@ -12,7 +12,7 @@
     text-align: center;
     color:white;
 }
-.first-btn{
+.btn-primary{
     background-color: orangered;
     color: white;
     padding: 5px 10px;
@@ -25,11 +25,6 @@
     text-align: center;
 }
 
-/* .prize-money{
-    display: flex;
-    list-style: none;
-    gap: 25px;  
-} */
 .prize-money{
     display: flex;
     gap: 25px;
@@ -48,12 +43,33 @@
 p {
     text-align: center;
 }
-.second-button{
-    background-color: orange;
-    padding: 10px 5px;
-    border-radius: 2px;
-    border: none;
-
+.download-btn{
+    float: right;
+    margin-right: 620px;
+    padding: 18px 8px;
 }
-
-
+/* fouth part */
+.first-heaing{
+    text-align: center;
+    float: right;
+}
+.food-blog{
+    display: flex;
+    gap: 34px;
+}
+.food-sub-blog1{
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 8px;
+}
+.food-sub-blog2{
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 8px;
+}
+.food-sub-blog3{
+    background-color:brown;
+    padding: 30px;
+    border-radius: 8px;
+}
+/* six part */
