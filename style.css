@@ -1,0 +1,59 @@
+/* first part */
+.header{
+    background-image: url('images/donation1.jpg');
+    width: 1200px;
+    height: 270px;
+    margin: 15px 120px;
+    background-repeat: no-repeat;
+    padding: 20px 0;
+    background-size: cover;
+}
+.heading{
+    text-align: center;
+    color:white;
+}
+.first-btn{
+    background-color: orangered;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 2px;
+    border: none;
+    
+}
+/* second part */
+.head{
+    text-align: center;
+}
+
+/* .prize-money{
+    display: flex;
+    list-style: none;
+    gap: 25px;  
+} */
+.prize-money{
+    display: flex;
+    gap: 25px;
+    justify-content: center; 
+}
+.box1{
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding:30px;
+}
+.shadow-color{
+    color: red;
+
+}
+/* third part */
+p {
+    text-align: center;
+}
+.second-button{
+    background-color: orange;
+    padding: 10px 5px;
+    border-radius: 2px;
+    border: none;
+
+}
+
+
